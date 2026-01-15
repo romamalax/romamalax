@@ -5,21 +5,12 @@
 **Go разработчик | Backend Engineer**
 
 [![Telegram](https://img.shields.io/badge/Telegram-romamalax-0088cc?style=flat-square&logo=telegram)](https://t.me/romamalax)
+<br>
 [![Habr](https://img.shields.io/badge/Habr-romamalax-65A3BE?style=flat-square&logo=habr)](https://habr.com/ru/users/romamalax)
 
 </div>
 
 ---
-
-<div align="center">
-
-## 📊 Статистика GitHub
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=romamalax&theme=radical&hide_border=false&include_all_commits=true&count_private=true&show_icons=true&line_height=27)
-
-![GitHub Streak](https://github-readme-streak-stats.vercel.app/?user=romamalax&theme=radical&hide_border=false)
-
-</div>
 
 <div align="center">
 
@@ -32,7 +23,7 @@
 
 <div align="center">
 
-## 💻 Технологии и языки (в процентах)
+## 💻 Технологии и языки
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=romamalax&theme=radical&hide_border=true&layout=compact&langs_count=10&hide_title=false&include_all_commits=true&count_private=true" alt="Top Languages" width="100%"/>
 
@@ -40,7 +31,7 @@
 
 <div align="center">
 
-### 📊 Детальная статистика
+### 📊 Статистика
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=romamalax&theme=radical" alt="Stats" width="49%"/>
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=romamalax&theme=radical&utcOffset=3" alt="Productive time" width="49%"/>
@@ -72,13 +63,5 @@
 ![Kafka](https://img.shields.io/badge/Apache%20Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-
-</div>
-
----
-
-<div align="center">
-
-**⭐ Если вам нравится моя работа, поставьте звезду!**
 
 </div>
