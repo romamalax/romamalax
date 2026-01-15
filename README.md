@@ -15,9 +15,9 @@
 
 ## 📊 Статистика GitHub
 
-<img src="https://github-readme-stats.vercel.app/api?username=romamalax&theme=radical&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&line_height=27" alt="GitHub Stats" width="100%"/>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=romamalax&theme=radical&hide_border=false&include_all_commits=true&count_private=true&show_icons=true&line_height=27)
 
-<img src="https://github-readme-streak-stats.demolab.com/?user=romamalax&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" width="100%"/>
+![GitHub Streak](https://github-readme-streak-stats.vercel.app/?user=romamalax&theme=radical&hide_border=false)
 
 </div>
 
