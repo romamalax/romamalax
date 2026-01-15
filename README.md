@@ -12,36 +12,6 @@
 
 ---
 
-<div align="center">
-
-### 📦 Репозитории и коммиты
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=romamalax&theme=radical" alt="Repos per language" width="49%"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=romamalax&theme=radical" alt="Most commit language" width="49%"/>
-
-</div>
-
-<div align="center">
-
-## 💻 Технологии и языки
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=romamalax&theme=radical&hide_border=true&layout=compact&langs_count=10&hide_title=false&include_all_commits=true&count_private=true" alt="Top Languages" width="100%"/>
-
-</div>
-
-<div align="center">
-
-### 📊 Статистика
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=romamalax&theme=radical" alt="Stats" width="49%"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=romamalax&theme=radical&utcOffset=3" alt="Productive time" width="49%"/>
-
-</div>
-
----
-
-<div align="center">
-
 ## 🔥 Активность
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=romamalax&theme=radical&hide_border=true&area=true&bg_color=0d1117&color=ff006e&line=00d9ff&point=ffffff&area_color=ff006e" alt="GitHub Activity Graph" width="100%"/>
