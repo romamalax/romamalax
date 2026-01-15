@@ -10,15 +10,6 @@
 
 </div>
 
----
-
-## 🔥 Активность
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=romamalax&theme=radical&hide_border=true&area=true&bg_color=0d1117&color=ff006e&line=00d9ff&point=ffffff&area_color=ff006e" alt="GitHub Activity Graph" width="100%"/>
-
-</div>
-
----
 
 <div align="center">
 
@@ -35,3 +26,12 @@
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 </div>
+
+
+---
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=romamalax&theme=radical&hide_border=true&area=true&bg_color=0d1117&color=ff006e&line=00d9ff&point=ffffff&area_color=ff006e" alt="GitHub Activity Graph" width="100%"/>
+
+</div>
+
+---
