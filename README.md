@@ -15,9 +15,9 @@
 
 ## 📊 Статистика GitHub
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=romamalax&theme=vue-dark&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&line_height=27&custom_title=Моя%20статистика%20на%20GitHub)
+<img src="https://github-readme-stats.vercel.app/api?username=romamalax&theme=radical&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&line_height=27" alt="GitHub Stats" width="100%"/>
 
-![GitHub Streak](https://github-readme-streak-stats.vercel.app/?user=romamalax&theme=vue-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)
+<img src="https://github-readme-streak-stats.demolab.com/?user=romamalax&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" width="100%"/>
 
 </div>
 
@@ -25,8 +25,8 @@
 
 ### 📦 Репозитории и коммиты
 
-![GitHub Profile Summary Cards](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=romamalax&theme=vue_dark)
-![GitHub Profile Summary Cards](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=romamalax&theme=vue_dark)
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=romamalax&theme=radical" alt="Repos per language" width="49%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=romamalax&theme=radical" alt="Most commit language" width="49%"/>
 
 </div>
 
@@ -34,7 +34,7 @@
 
 ## 💻 Технологии и языки (в процентах)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=romamalax&theme=vue-dark&hide_border=true&layout=compact&langs_count=10&hide_title=false&include_all_commits=true&count_private=true&card_width=600)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=romamalax&theme=radical&hide_border=true&layout=compact&langs_count=10&hide_title=false&include_all_commits=true&count_private=true" alt="Top Languages" width="100%"/>
 
 </div>
 
@@ -42,8 +42,8 @@
 
 ### 📊 Детальная статистика
 
-![GitHub Profile Summary Cards](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=romamalax&theme=vue_dark)
-![GitHub Profile Summary Cards](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=romamalax&theme=vue_dark&utcOffset=3)
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=romamalax&theme=radical" alt="Stats" width="49%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=romamalax&theme=radical&utcOffset=3" alt="Productive time" width="49%"/>
 
 </div>
 
@@ -53,7 +53,7 @@
 
 ## 🔥 Активность
 
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=romamalax&theme=vue-dark&hide_border=true&area=true)
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=romamalax&theme=radical&hide_border=true&area=true&bg_color=0d1117&color=ff006e&line=00d9ff&point=ffffff&area_color=ff006e" alt="GitHub Activity Graph" width="100%"/>
 
 </div>
 
